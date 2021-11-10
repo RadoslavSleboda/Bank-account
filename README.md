@@ -4,4 +4,4 @@ Here you can login into account using name and pin than you can deposit, withdra
 
 You can login to already existing accounts or create your own. Also you can cancel account.
 
-To make it little more alive you can move time forward and see interactions betveen money and loan also there is fluctuating interest.
+You can move time forward and see interactions betveen money and loan also there is fluctuating interest.
